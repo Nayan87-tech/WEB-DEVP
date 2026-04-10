@@ -1,2 +1,3 @@
 Branches in git:-
 Git branch- THis command lista all the branches in the current reposistary.
+Git branch (name of the branch)- This command creats a new branch called (name that you given)
