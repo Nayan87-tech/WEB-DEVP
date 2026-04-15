@@ -1,2 +1,0 @@
-Branches in git:-
-Git branch- THis command lista all the branches in the current reposistary.
