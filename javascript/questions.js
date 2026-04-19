@@ -1,5 +1,8 @@
 // Object:-
 // create obj called person...properties name,age,city!
+// print keys of last created object..  console.log(object.keys(name of object));
+//  create obj car...properties brand,model!
+
 
 // let person={
 //     name:"nayan",
@@ -7,6 +10,13 @@
 //     city:"Delhi",
 // }
 // console.log(person);
+// console.log(Object.keys(person));
+
+// let car={
+//     brand:"nano",
+//     model:2025,
+// }
+// console.log();
 
 // ---------------------------------
 
@@ -24,26 +34,33 @@
 // Functios:-
 // using function print "hello world"
 // using function take two values and print their +,-,*,/ ...
+// write a func takes aname as a parameter and print welcome message....
+
+// function hello(){
+//     console.log("Hello World");
+// }
+// hello()
 
 
-function hello(){
-    console.log("Hello World");
-}
-hello()
+// function maths(a,b){
+// console.log(a+b);
+// console.log(a-b);
+// console.log(a*b);
+// console.log(a/b);
+// }
+// maths(10,2);
 
-function maths(a,b){
-console.log(a+b);
-console.log(a-b);
-console.log(a*b);
-console.log(a/b);
-}
-maths(10,2);
 
-function square(a){
-    return `square of a number is :  ${a*a}`
-}
-console.log(square(10));
+// function square(a){
+//     return `square of a number is :  ${a*a}`
+// }
+// console.log(square(10));
 
+
+// function nayan1(nayan,num){
+//     console.log("Welcome",nayan,num);
+// }
+// nayan1("nayan",21);
 
 
 
