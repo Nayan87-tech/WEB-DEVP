@@ -35,8 +35,8 @@ if(nm>=18){
 }
 
 // check if a user can login(username and password correct).
-let n = "nayan", m = "nayan1234";
-if( n === "nayan" && m === "nayan1234" ){
+let u = "nayan", p = "nayan1234";
+if( u === "nayan" && p === "nayan1234" ){
 console.log("username and password correct");
 }else{
     console.log("incorrect username and password");
