@@ -63,7 +63,13 @@
 // nayan1("nayan",21);
 
 
-
+// let num = 5;
+// let factorial =1;
+// for( let i=num; i>=1; i-- ){
+//     factorial = factorial * i
+//     // console.log(i);
+// }
+// console.log(factorial);
 
 
 
