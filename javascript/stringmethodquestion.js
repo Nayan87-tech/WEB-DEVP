@@ -6,13 +6,14 @@
 // let str = "my name is nayan"
 // let print = str.toUpperCase()
 // console.log(print);
-
-// let world = "i love india"
-// let part = world.slice(7,12)
-// // console.log(part)
-// let cap = part.toUpperCase()
+ 
+let world = "i love india"
+let part = world.slice(7,12)
+// console.log(part)
+let cap = part.toUpperCase()
 // console.log(cap);
-
+let x = cap.concat(" i love")
+console.log(x)
 
 
 // // TOLOWERCASE
